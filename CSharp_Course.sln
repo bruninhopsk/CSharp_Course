@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise.Classes.Attributes.Methods", "Exercise.Classes.Attributes.Methods\Exercise.Classes.Attributes.Methods.csproj", "{2B4FA3BE-3C77-4BC6-8603-42A92C627725}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise.Contructors.Overload.Encapsulation.This", "Exercise.Contructors.Overload.Encapsulation.This\Exercise.Contructors.Overload.Encapsulation.This.csproj", "{5B583E5F-E8F7-4D30-AAF5-B5A9C259059F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{2B4FA3BE-3C77-4BC6-8603-42A92C627725}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B4FA3BE-3C77-4BC6-8603-42A92C627725}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B4FA3BE-3C77-4BC6-8603-42A92C627725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B583E5F-E8F7-4D30-AAF5-B5A9C259059F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B583E5F-E8F7-4D30-AAF5-B5A9C259059F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B583E5F-E8F7-4D30-AAF5-B5A9C259059F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B583E5F-E8F7-4D30-AAF5-B5A9C259059F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
